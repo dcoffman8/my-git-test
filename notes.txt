@@ -1,1 +1,2 @@
 These are my notes while practicing Git.
+I'm adding a line.
