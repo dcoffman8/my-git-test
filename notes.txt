@@ -1,2 +1,3 @@
 These are my notes while practicing Git.
 I'm adding a line.
+Adding this line to test branches!
